@@ -1,4 +1,4 @@
-# burakksekerr.github.io
+# burkseker.github.io
 
 Sugar Developments sitesi (GitHub Pages): uygulamaların gizlilik politikaları ve AdMob için `app-ads.txt`.
 
